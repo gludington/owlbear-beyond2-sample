@@ -1,0 +1,12 @@
+{
+    "name": "Owlbear Beyond20 Sample",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "action": {
+        "title": "Owlbear Beyond20 Sample",
+        "icon": "/icon.svg",
+        "popover": "/",
+        "width": "400",
+        "height": "300"
+    }
+}
