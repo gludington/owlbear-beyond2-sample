@@ -13,7 +13,7 @@ const ID = "com.github.gludington.owlbear-beyond20-sample";
 const register = ({ onMessageReceived, onRegistration, onRegistrationFailed }:
   { onMessageReceived(message: any): void, onRegistration?(): void, onRegistrationFailed?(): void }) => {
 
-  console.info(`Registering $ID with Owlbear2-Beyond20`);
+  console.info(`Registering $ID with Owlbear-Beyond20`);
   let registered = false;
   window.setTimeout(function () {
     if (!registered) {
